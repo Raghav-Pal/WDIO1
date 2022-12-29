@@ -11,7 +11,7 @@ describe('My 1st group of tests', () => {
         // await search_box_element.setValue("BrowserStack\n")
         // await $('button[type="submit"]').click();
         browser.keys('Enter')
-        browser.pause(4000)
+        browser.pause(2000)
 
         // await browser.url('https://google.com')
         // // browser.pause(8000)
